@@ -22,7 +22,6 @@ public class Events extends Frame {
         this.setSize(500, 200);
 
         textField = new TextField();
-        textField = new TextField();
 
         textField.setBounds(60, 50, 180, 25);
         Button button = new Button("click Here");
